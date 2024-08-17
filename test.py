@@ -1,1 +1,1 @@
-just a test ok??
+print("Hello world")
